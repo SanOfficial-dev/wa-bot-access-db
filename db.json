@@ -1,0 +1,15 @@
+{
+  "owner": ["6285743129430"],
+  "users": [
+    {
+      "number": "628123456789",
+      "status": "active",
+      "note": "buyer 1"
+    },
+    {
+      "number": "628987654321",
+      "status": "banned",
+      "note": "leaked"
+    }
+  ]
+}
