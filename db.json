@@ -4,11 +4,6 @@
   ],
   "users": [
     {
-      "number": "628987654321",
-      "status": "banned",
-      "note": "leaked"
-    },
-    {
       "number": "2882822",
       "status": "banned",
       "note": "added via bot"
