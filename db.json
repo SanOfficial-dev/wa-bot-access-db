@@ -2,5 +2,11 @@
   "owner": [
     "6285743129430"
   ],
-  "users": []
+  "users": [
+    {
+      "number": "6283105670694",
+      "status": "active",
+      "note": "added via bot"
+    }
+  ]
 }
